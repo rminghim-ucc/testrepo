@@ -1,3 +1,3 @@
-# 
 
-print("hello craping world")
+print("hello beautiful world")
+
